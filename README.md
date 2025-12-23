@@ -1,5 +1,5 @@
 # Installing-Linux-Ubuntu-packages
-Installing basic packages and libraries in Linux for people who are newly installing or changing the operating system. Linux based on Debian.
+_Installing basic packages and libraries in Linux for people who are newly installing or changing the operating system. Linux based on Debian._
 
 ---
 # Packages and libraries that are installed
@@ -15,4 +15,11 @@ Installing basic packages and libraries in Linux for people who are newly instal
 
 ---
 # How To Run?
-Downloads File (
+1. Downloads File (https://github.com/GodFather850/Installing-Linux-Ubuntu-packages/archive/refs/heads/main.zip)
+2. cd Downlods
+
+        chmod +x packages.sh
+        bash packages.sh
+
+---
+# Created By GodFather
