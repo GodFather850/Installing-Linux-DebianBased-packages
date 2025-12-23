@@ -1,5 +1,6 @@
 # Installing-Linux-Ubuntu-packages
-_Installing basic packages and libraries in Linux for people who are newly installing or changing the operating system. Linux based on Debian._
+
+_Installing basic packages and libraries in Linux for people who are newly installing or changing the operating system. Linux based on Debian Or Ubuntu._
 
 ---
 # Packages and libraries that are installed
