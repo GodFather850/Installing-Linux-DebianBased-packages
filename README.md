@@ -1,14 +1,11 @@
-# 🚀Installing-Linux-Ubuntu-packages🛠️
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 🚀Installing-Linux-Ubuntu-packages🛠️ 
 
 _Installing basic packages and libraries in Linux for people who are newly installing or changing the operating system. Linux based on Debian Or Ubuntu._
 
 ---
-<img ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) img>
-<img ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) img>
-<img ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) img>
-<img ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) img>
-
-# 📦Packages and libraries that are installed
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+# 📦Packages and libraries that are installed _Ubuntu_
         neofetch
         python3
         curl
@@ -19,7 +16,7 @@ _Installing basic packages and libraries in Linux for people who are newly insta
         sublime-text
 
 ---
-
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # 📂How To Run?
 1. Downloads File (https://github.com/GodFather850/Installing-Linux-Ubuntu-packages/archive/refs/heads/main.zip)
 
@@ -32,7 +29,7 @@ _Installing basic packages and libraries in Linux for people who are newly insta
         3. bash packages.sh
 
 ---
-
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 # 🔧 Is it possible to edit the packages that are installed?
 Yes, you can specify which packages to install.
 - By going to the json file in the presentation ("Packages") you can rename the packages or delete them.
