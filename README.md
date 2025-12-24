@@ -77,11 +77,15 @@ Yes, you can specify which packages to install.
 
 ---
 
-**Tags:** `#bash` `#linux` `#automation` `#json` `#ubuntu` `#devops`
-
 # -👤Created By GodFather 
 
 # -📜MTA Scripter • Linux Learner🐧 • Future DevOps Engineer 🇺🇸🔥
+
+**Topics:** 
+[#bash](https://github.com/topics/bash) •
+[#linux](https://github.com/topics/linux) •
+[#automation](https://github.com/topics/automation) •
+[#json](https://github.com/topics/json)
 
 ---
 ![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
