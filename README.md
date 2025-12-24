@@ -37,7 +37,6 @@ Yes, you can specify which packages to install.
 - By going to the json file in the presentation ("Packages") you can rename the packages or delete them.
 ---
 ![Tux](https://img.shields.io/badge/Tux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
 # 📷 Example Output
 
 1️⃣ After installing the packages:
@@ -81,3 +80,6 @@ Yes, you can specify which packages to install.
 # -👤Created By GodFather 
 
 # -📜MTA Scripter • Linux Learner🐧 • Future DevOps Engineer 🇺🇸🔥
+
+---
+![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
