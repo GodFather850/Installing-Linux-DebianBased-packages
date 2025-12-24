@@ -10,7 +10,7 @@ fi
 # Install Default Packages
 sudo apt update && sudo apt full-upgrade -y
 
-# Locals
+# Variables
 pack="pack.json"
 Packages=($(jq -r '.Packages[]' "$pack"))
 
