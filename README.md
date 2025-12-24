@@ -34,7 +34,7 @@ _Installing basic packages and libraries in Linux for people who are newly insta
 Yes, you can specify which packages to install.
 - By going to the json file in the presentation ("Packages") you can rename the packages or delete them.
 ---
-![Linux](https://img.shields.io/ctan/l/24.04)
+![Tux](https://img.shields.io/badge/Tux-000000?style=for-the-badge&logo=linux&logoColor=white)
 # 📷 Example Output
 
 1️⃣ After installing the packages:
