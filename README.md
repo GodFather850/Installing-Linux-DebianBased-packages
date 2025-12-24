@@ -21,6 +21,7 @@ _Installing basic packages and libraries in Linux for people who are newly insta
 1. Downloads File (https://github.com/GodFather850/Installing-Linux-Ubuntu-packages/archive/refs/heads/main.zip)
 
         1. cd Downlods
+   
 🔧 1. Give permission:
 
         2. chmod +x packages.sh
