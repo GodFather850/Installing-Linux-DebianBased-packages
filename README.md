@@ -14,6 +14,7 @@ _Installing basic packages and libraries in Linux for people who are newly insta
         libevent-2.1-7
         libssl3
         libasound2t64
+        dos2unix
         sublime-text
 ```
 ---
