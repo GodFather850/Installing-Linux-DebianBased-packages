@@ -4,6 +4,22 @@
 _Installing basic packages and libraries in Linux for people who are newly installing or changing the operating system. Linux based on Debian Or Ubuntu._
 
 ---
+# Updated (V1.6)
+
+![Update](new-update-logo-template-illustration-free-vector-1-1024x615.jpg)
+
+``` markdown
+______________________________________________
+        Added Packages:
+                1. ssh
+                2. ipython3
+                3. dos2unix
+______________________________________________
+        >Fixed a number of minor bugs<
+
+```
+
+---
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 # 📦Packages and libraries that are installed _Ubuntu_
 ```markdown
@@ -17,6 +33,7 @@ _Installing basic packages and libraries in Linux for people who are newly insta
         dos2unix
         ssh
         sublime-text
+        ipython3
 ```
 ---
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
