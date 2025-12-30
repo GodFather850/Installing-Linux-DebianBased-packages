@@ -22,6 +22,13 @@ for pkg in "${Packages[@]}"; do
     sudo apt install -y "$pkg"
 done
 
+# sublime snap install
+if ! command -v sublime-text &> /dev/null; then
+    echo "installing sublime-text (cancel: CTRL + C)"
+    sleep 5
+    sudo snap install sublime-text
+fi
+
 clear
 
 Sleep 3
