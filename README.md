@@ -52,6 +52,21 @@ ______________________________________________
 ```
 
 ---
+# Supported operating systems:
+
+```markdown
+kali
+Debian
+Ubuntu
+mint
+POP!_OS
+MX Linux
+Devuan
+Sparky Linux
+antiX
+Porrot OS
+```
+---
 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 # 🔧 Is it possible to edit the packages that are installed?
