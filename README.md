@@ -117,7 +117,7 @@ Yes, you can specify which packages to install.
 
 # -👤Created By GodFather 
 
-# -📜MTA Scripter • Linux Learner🐧 • Future DevOps Engineer 🇺🇸🔥
+# -📜MTA Scripter • Linux Learner🐧 • Python Learner • SQL • Bash Scripter 🇺🇸🔥
 
 **Topics:** 
 [#bash](https://github.com/topics/bash) •
