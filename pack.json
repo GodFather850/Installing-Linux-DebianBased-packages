@@ -11,6 +11,8 @@
         "libssl3",
         "libasound2t64",
         "dos2unix",
-        "ipython3"
+        "ipython3",
+        "libnotify-bin",
+	    "unrar"
     ]
 }
