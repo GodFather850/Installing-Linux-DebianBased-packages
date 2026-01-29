@@ -18,20 +18,11 @@ echo "Installing packages Please Wite......."
 # Read Json And Install PKG
 for pkg in "${Packages[@]}"; do
     echo -e "\e[96mInstalling $pkg......\e[0m"
-    sleep 2
     sudo apt install -y "$pkg"
 done
 
-# sublime snap install
-if ! command -v sublime-text &> /dev/null; then
-    echo "installing sublime-text (cancel: CTRL + C)"
-    sleep 5
-    sudo snap install sublime-text
-fi
 
 clear
-
-Sleep 3
 # Restart System
 read -p "The package installation was successful. Do you want to restart? (y/n): " restart
 if [[ "$restart" == "y" ]] || [[ "$restart" == "Y" ]]; then 
@@ -42,7 +33,7 @@ else
     clear
     echo "Restart later and let it settle. XD"
     echo "Good Lock!<3"
-    neofetch || fastfetch
+    fastfetch
 fi
 
 # Created By GodFather
