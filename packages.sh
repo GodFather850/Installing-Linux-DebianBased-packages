@@ -34,6 +34,7 @@ else
     echo "Restart later and let it settle. XD"
     echo "Good Lock!<3"
     fastfetch
+    cowsay 'Hello, your system is ready Moooooooooooo :)'
 fi
 
 # Created By GodFather
