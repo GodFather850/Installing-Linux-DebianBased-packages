@@ -11,8 +11,8 @@ _Installing basic packages and libraries in Linux for people who are newly insta
 ```json
 "author": "GodFather",
 "Packages": [
-        "neofetch",
-       "python3",
+       "neofetch",
+       "python3-full",
         "curl",
         "git",
        "libevent-2.1-7",
@@ -23,7 +23,8 @@ _Installing basic packages and libraries in Linux for people who are newly insta
         "sublime-text",
         "ipython3",
         "libnotify-bin",
-       " unrar"
+        "unrar",
+        "cowsay"
 ]
 ```
 ---
@@ -82,27 +83,23 @@ Yes, you can specify which packages to install.
         Restart later and let it settle. XD
         Good Lock!<3
         
-                    .-/+oossssoo+/-.              
-                `:+ssssssssssssssssss+:`           
-              -+ssssssssssssssssssyyssss+-         
-            .ossssssssssssssssssdMMMNysssso.       
-           /ssssssssssshdmmNNmmyNMMMMhssssss/      
-          +ssssssssshmydMMMMMMMNddddyssssssss+     
-         /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    
-        .ssssssssdMMMNhsssssssssshNMMMdssssssss.  
-        +sssshhhyNMMNyssssssssssssyNMMMysssssss+   
-        ossyNMMMNyMMhsssssssssssssshmmmhssssssso   
-        ossyNMMMNyMMhsssssssssssssshmmmhssssssso   
-        +sssshhhyNMMNyssssssssssssyNMMMysssssss+   
-        .ssssssssdMMMNhsssssssssshNMMMdssssssss.   
-         /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    
-          +sssssssssdmydMMMMMMMMddddyssssssss+     
-           /ssssssssssshdmNNNNmyNMMMMhssssss/      
-            .ossssssssssssssssssdMMMNysssso.       
-              -+sssssssssssssssssyyyssss+-         
-                `:+ssssssssssssssssss+:`           
-                    .-/+oossssoo+/-.
-                                  
+                _,met$$$$$gg.
+             ,g$$$$$$$$$$$$$$$P.                   
+           ,g$$P""       """Y$$.".       
+          ,$$P'              `$$$.               
+        ',$$P       ,ggs.     `$$b:            
+        `d$$'     ,$P"'   .    $$$                        
+         $$P      d$'     ,    $$P                       
+         $$:      $$.   -    ,d$$'                   
+         $$;      Y$b._   _,d$P'                                                
+         `$$b      "-.__                                      
+          `Y$$b                             
+           `Y$$.                                
+             `$$b.                             
+               `Y$$b.                             
+                 `"Y$b._                       
+                     `""""                     
+                                                  
 
 ---
 
@@ -114,7 +111,8 @@ Yes, you can specify which packages to install.
 [#bash](https://github.com/topics/bash) •
 [#linux](https://github.com/topics/linux) •
 [#automation](https://github.com/topics/automation) •
-[#json](https://github.com/topics/json)
+[#json](https://github.com/topics/json) •
+[#debian](https://github.com/topics/debian) •
 
 ---
 
