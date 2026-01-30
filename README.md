@@ -24,7 +24,8 @@ _Installing basic packages and libraries in Linux for people who are newly insta
         "ipython3",
         "libnotify-bin",
         "unrar",
-        "cowsay"
+        "cowsay",
+        "nodejs"
 ]
 ```
 ---
@@ -35,12 +36,12 @@ _Installing basic packages and libraries in Linux for people who are newly insta
    
 🔧 2.Give permission:
 ```bash
-        chmod +x packages.sh
+        chmod +x installer.sh
 ```
 
 ▶️ 3.Run the script:
 ```bash
-        bash packages.sh
+        bash installer.sh
 ```
 
 ---
@@ -76,7 +77,7 @@ Yes, you can specify which packages to install.
 2️⃣ If your answer was yes:
 
         5 seconds until restart to cancel (CTRL + C)! 
-        reboot
+        reboot (after 5 seconds)
         
 3️⃣ If your answer was no:
 
