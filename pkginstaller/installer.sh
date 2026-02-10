@@ -22,6 +22,10 @@ for pkg in "${Packages[@]}"; do
     sudo apt install -y "$pkg"
 done
 
+if ! command neofetch &> /dev/null || ! command fastfetch &> /dev/null; then
+    sudo apt install neofetch -y || sudo apt install fastfetch-y
+fi
+
 clear
 
 # Restart System
